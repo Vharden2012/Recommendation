@@ -17,13 +17,13 @@ Our CFO originally suggested the [Lenovo Ideapad 1](https://www.bestbuy.com/site
 
 Mike proposed the [Lenovo IdeaPad 3i](https://www.amazon.com/Lenovo-IdeaPad-Business-Student-i3-1115G4/dp/B0BSR6N4WY/ref=sr_1_2_sspa?crid=31ZBEMBLDQUC1&keywords=lenovo%2Blaptop&qid=1689560155&refinements=p_n_feature_thirty-three_browse-bin%3A23720419011&rnid=23720416011&s=pc&sprefix=lenovo%2B%2Caps%2C196&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1). At $319.99, it's equipped with an Intel Core i3-1115G4 processor, 8GB of RAM, and a 512GB SSD. This laptop can handle more demanding tasks and offers ample storage.
 
-![Lenovo IdeaPad 3i](Mike-Laptop-Image-URL-Here)
+![Lenovo IdeaPad 3i](Mike.png)
 
 ### 3. Dell Inspiron 3420
 
 I suggest the [Dell Inspiron 3420](https://www.bestbuy.com/site/dell-inspiron-3420-14-touch-laptop-snapdragon-8cx-gen-2-8gb-memory-256gb-solid-state-drive-platinum-silver/6525656.p?skuId=6525656&ref=212&loc=1&ref=212&loc=1&gclid=7f1b7c53dd381643e9ab18e57c91ae7a&gclsrc=3p.ds&msclkid=7f1b7c53dd381643e9ab18e57c91ae7a). This 14" touch laptop, priced at $599.99, features a Snapdragon 8cx Gen 2 processor, 8GB of memory, and a 256GB SSD. It combines performance and functionality, offering a touchscreen for interactive tasks.
 
-![Dell Inspiron 3420](Our-Recommendation-Laptop-Image-URL-Here)
+![Dell Inspiron 3420](Me.jfif)
 
 ---
 
