@@ -11,7 +11,7 @@ In this guide, we're evaluating three different laptops to determine the best fi
 
 Our CFO originally suggested the [Lenovo Ideapad 1](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746). Priced at $299.99, this laptop offers an Athlon Silver 7120U processor, 4GB of RAM, and a 128GB SSD. It's a good fit for basic tasks.
 
-![Lenovo Ideapad 1](CFO.jpeg)
+![Lenovo Ideapad 1](CFO.jpg)
 
 ### 2. Lenovo IdeaPad 3i
 
