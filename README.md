@@ -1,4 +1,4 @@
-My recomendation for the computer
+
 # Laptop Selection Guide for Our Organization
 
 In this guide, we're evaluating three different laptops to determine the best fit for our team.
